@@ -10,12 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayman abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman abodala" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayman abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayman abodala" height="30" width="40" /></a>
-<a href="https://fb.com/ayman abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayman abodala" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayman abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayman abodala" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ayman_abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayman_abodala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mino_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mino_15" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ayman Abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman abodala" height="30" width="40" /></a>
+<a href="https://kaggle.com/Ayman Abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayman abodala" height="30" width="40" /></a>
+<a href="https://fb.com/Ayman Abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayman abodala" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Ayman Abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayman abodala" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ayman_abodala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayman_abodala" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Mino_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mino_15" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
